@@ -1208,10 +1208,10 @@
 
     <properties>
         <streaming.integration.version>${project.version}</streaming.integration.version>
-        <carbon.analytics.version>3.0.77-SNAPSHOT</carbon.analytics.version>
-        <siddhi.version>5.1.33-SNAPSHOT</siddhi.version>
+        <carbon.analytics.version>3.0.78</carbon.analytics.version>
+        <siddhi.version>5.1.33</siddhi.version>
 
-        <carbon.analytics-common.version>6.1.73-SNAPSHOT</carbon.analytics-common.version>
+        <carbon.analytics-common.version>6.1.73</carbon.analytics-common.version>
         <!-- Maven plugins -->
         <!--Bundle Plugin - Overridden from parent due to a bug in latest version related to capability providers-->
         <maven.bundle.plugin.version>2.5.4</maven.bundle.plugin.version>
@@ -1254,7 +1254,7 @@
         <carbon.utils.version>2.1.1</carbon.utils.version>
         <carbon.config.version>2.1.17</carbon.config.version>
         <carbon.config.version.range>[2.1.0, 3.0.0)</carbon.config.version.range>
-        <carbon.securevault.version>5.0.22-SNAPSHOT</carbon.securevault.version>
+        <carbon.securevault.version>5.0.22</carbon.securevault.version>
 
         <slf4j.version>1.7.12</slf4j.version>
         <slf4j.logging.package.import.version.range>[1.7.1, 2.0.0)
@@ -1313,7 +1313,7 @@
         <common.collections4.version>4.4</common.collections4.version>
 
         <!--MSF4J related-->
-        <msf4j.version>2.8.14-SNAPSHOT</msf4j.version>
+        <msf4j.version>2.9.0</msf4j.version>
         <com.fasterxml.jackson.core.version>2.21.2</com.fasterxml.jackson.core.version>
         <com.fasterxml.jackson.databind.version>2.21.2</com.fasterxml.jackson.databind.version>
         <com.fasterxml.jackson.annotations.version>2.21</com.fasterxml.jackson.annotations.version>
@@ -1356,14 +1356,15 @@
         <siddhi.execution.map.version>5.0.7</siddhi.execution.map.version>
         <siddhi.execution.list.version>1.0.2</siddhi.execution.list.version>
 
-        <siddhi.io.file.version>2.0.26</siddhi.io.file.version>
+        <siddhi.io.file.version>2.0.27</siddhi.io.file.version>
         <siddhi.io.tcp.version>3.0.6</siddhi.io.tcp.version>
         <siddhi.io.email.version>2.0.8</siddhi.io.email.version>
-        <siddhi.io.kafka.version>5.0.19</siddhi.io.kafka.version>
+        <siddhi.io.kafka.version>5.0.20</siddhi.io.kafka.version>
         <siddhi.io.http.version>2.3.7</siddhi.io.http.version>
         <siddhi.io.websocket.version>3.0.3</siddhi.io.websocket.version>
-        <siddhi.io.cdc.version>2.0.17</siddhi.io.cdc.version>
-        <siddhi.io.grpc.version>1.0.13</siddhi.io.grpc.version>
+        <siddhi.io.cdc.version>2.1.0</siddhi.io.cdc.version>
+        <siddhi.io.grpc.version>1.0.14</siddhi.io.grpc.version>
+        <protobuf.java.version>3.25.5</protobuf.java.version>
 
         <siddhi.map.json.version>5.2.5</siddhi.map.json.version>
         <siddhi.map.avro.version>2.2.5</siddhi.map.avro.version>
@@ -1391,7 +1392,7 @@
         <org.snakeyaml.version>2.6</org.snakeyaml.version>
         <mysql.con.version>6.0.5</mysql.con.version>
         <googlecode.json-simple.version>1.1.wso2v1</googlecode.json-simple.version>
-        <io.netty.version>4.1.132.Final</io.netty.version>
+        <io.netty.version>4.1.133.Final</io.netty.version>
         <log4j.version>2.25.4</log4j.version>
         <nimbus.jose.jwt.version>9.37.4</nimbus.jose.jwt.version>
         <bouncycastle.version>1.78.1</bouncycastle.version>
