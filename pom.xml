@@ -1211,7 +1211,8 @@
         <carbon.analytics.version>3.0.78</carbon.analytics.version>
         <siddhi.version>5.1.33</siddhi.version>
 
-        <carbon.analytics-common.version>6.1.73</carbon.analytics-common.version>
+        <!-- TODO: remove SNAPSHOT once carbon-analytics-common 6.1.74 is released -->
+        <carbon.analytics-common.version>6.1.74-SNAPSHOT</carbon.analytics-common.version>
         <!-- Maven plugins -->
         <!--Bundle Plugin - Overridden from parent due to a bug in latest version related to capability providers-->
         <maven.bundle.plugin.version>2.5.4</maven.bundle.plugin.version>
@@ -1247,7 +1248,8 @@
         <osgi.test.util.version>5.1.1</osgi.test.util.version>
 
         <carbon.datasources.version>1.1.18</carbon.datasources.version>
-        <carbon.metrics.version>2.3.23</carbon.metrics.version>
+        <!-- TODO: remove SNAPSHOT once carbon-metrics 2.3.24 is released -->
+        <carbon.metrics.version>2.3.24-SNAPSHOT</carbon.metrics.version>
         <carbon.jndi.version>1.0.5</carbon.jndi.version>
 
         <carbon.cache.version>1.1.3</carbon.cache.version>
@@ -1401,7 +1403,7 @@
         <commons.compress.version>1.26.0</commons.compress.version>
         <mchange.c3p0.version>0.12.0</mchange.c3p0.version>
         <mchange.commons.version>0.4.0</mchange.commons.version>
-        <libthrift.version>0.16.0</libthrift.version>
+        <libthrift.version>0.23.0</libthrift.version>
         <org.json.version>20231013</org.json.version>
         <commons-codec.wso2.version>1.3.0.wso2v1</commons-codec.wso2.version>
 
