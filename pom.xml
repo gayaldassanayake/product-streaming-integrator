@@ -1235,7 +1235,8 @@
 
         <!-- Dependencies -->
         <open.tracing.version>0.31.0</open.tracing.version>
-        <carbon.kernel.version>5.3.3</carbon.kernel.version>
+        <!-- TODO: Remove -SNAPSHOT suffix once carbon-kernel 5.3.4 is released -->
+        <carbon.kernel.version>5.3.4-SNAPSHOT</carbon.kernel.version>
         <carbon.kernel.package.import.version.range>[5.2.0, 6.0.0)</carbon.kernel.package.import.version.range>
         <carbon.kernel.pax.version>5.2.17</carbon.kernel.pax.version>
 
@@ -1313,7 +1314,8 @@
         <common.collections4.version>4.4</common.collections4.version>
 
         <!--MSF4J related-->
-        <msf4j.version>2.9.0</msf4j.version>
+        <!-- TODO: Remove -SNAPSHOT suffix once msf4j 2.9.1 is released -->
+        <msf4j.version>2.9.1-SNAPSHOT</msf4j.version>
         <com.fasterxml.jackson.core.version>2.21.2</com.fasterxml.jackson.core.version>
         <com.fasterxml.jackson.databind.version>2.21.2</com.fasterxml.jackson.databind.version>
         <com.fasterxml.jackson.annotations.version>2.21</com.fasterxml.jackson.annotations.version>
