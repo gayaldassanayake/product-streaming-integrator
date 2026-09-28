@@ -1366,7 +1366,7 @@
         <siddhi.io.grpc.version>1.0.14</siddhi.io.grpc.version>
         <protobuf.java.version>3.25.5</protobuf.java.version>
 
-        <siddhi.map.json.version>5.2.5</siddhi.map.json.version>
+        <siddhi.map.json.version>5.2.6-SNAPSHOT</siddhi.map.json.version>
         <siddhi.map.avro.version>2.2.6-SNAPSHOT</siddhi.map.avro.version>
         <siddhi.map.binary.version>2.1.1</siddhi.map.binary.version>
         <siddhi.map.text.version>2.1.1</siddhi.map.text.version>
