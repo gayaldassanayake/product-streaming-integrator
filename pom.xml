@@ -1362,7 +1362,7 @@
         <siddhi.io.kafka.version>5.0.22-SNAPSHOT</siddhi.io.kafka.version>
         <siddhi.io.http.version>2.3.8-SNAPSHOT</siddhi.io.http.version>
         <siddhi.io.websocket.version>3.0.3</siddhi.io.websocket.version>
-        <siddhi.io.cdc.version>2.2.0</siddhi.io.cdc.version>
+        <siddhi.io.cdc.version>2.2.1-SNAPSHOT</siddhi.io.cdc.version>
         <siddhi.io.grpc.version>1.0.15-SNAPSHOT</siddhi.io.grpc.version>
         <protobuf.java.version>3.25.5</protobuf.java.version>
 
