@@ -19,10 +19,22 @@ setlocal
 
 if "%JAVA_HOME%" == "" goto noJavaHome
 if not exist "%JAVA_HOME%\bin\java.exe" goto noJavaHome
-goto commandLifecycle
+goto checkServer
 
 :noJavaHome
 echo "You must set the JAVA_HOME variable before running CARBON."
+goto end
+
+:checkServer
+if "%CARBON_HOME%"=="" set CARBON_HOME=%~sdp0..
+SET curDrive=%cd:~0,1%
+SET wsasDrive=%CARBON_HOME:~0,1%
+if not "%curDrive%" == "%wsasDrive%" %wsasDrive%:
+if not exist "%CARBON_HOME%\bin\kernel-version.txt" goto noServerHome
+goto commandLifecycle
+
+:noServerHome
+echo CARBON_HOME is set incorrectly or CARBON could not be located. Please set CARBON_HOME.
 goto end
 
 :commandLifecycle
@@ -35,7 +47,7 @@ set CURRENT_DIR=%cd%
 cd %CARBON_HOME%\bin
 echo JAVA_HOME environment variable is set to %JAVA_HOME%
 echo CARBON_HOME environment variable is set to %CARBON_HOME%
-"%JAVA_HOME%\bin\java" -cp ".\*;..\bin\tools\*" -Dwso2.carbon.tool="install-jars" org.wso2.carbon.tools.CarbonToolExecutor "%CURRENT_DIR%"
+"%JAVA_HOME%\bin\java" -cp ".\*;..\bin\tools\*" -Dwso2.carbon.tool="install-jars" org.wso2.carbon.tools.CarbonToolExecutor "%CARBON_HOME%"
 
 :end
 goto endlocal

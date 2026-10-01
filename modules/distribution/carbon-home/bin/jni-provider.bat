@@ -19,10 +19,22 @@ setlocal
 
 if "%JAVA_HOME%" == "" goto noJavaHome
 if not exist "%JAVA_HOME%\bin\java.exe" goto noJavaHome
-goto commandLifecycle
+goto checkServer
 
 :noJavaHome
 echo "You must set the JAVA_HOME variable before running CARBON."
+goto end
+
+:checkServer
+if "%CARBON_HOME%"=="" set CARBON_HOME=%~sdp0..
+SET curDrive=%cd:~0,1%
+SET wsasDrive=%CARBON_HOME:~0,1%
+if not "%curDrive%" == "%wsasDrive%" %wsasDrive%:
+if not exist "%CARBON_HOME%\bin\kernel-version.txt" goto noServerHome
+goto commandLifecycle
+
+:noServerHome
+echo CARBON_HOME is set incorrectly or CARBON could not be located. Please set CARBON_HOME.
 goto end
 
 :commandLifecycle

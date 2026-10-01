@@ -113,4 +113,4 @@ echo CARBON_HOME environment variable is set to $CARBON_HOME
 CURRENT_DIR=${PWD};
 
 cd "$CARBON_HOME/bin/";
-java -cp "../bin/tools/*" -Dcarbon.home="$CARBON_HOME" -Dwso2.carbon.tool="jni-provider" org.wso2.carbon.tools.CarbonToolExecutor $1 $2 $3 $4
+"$JAVACMD" -cp "../bin/tools/*" -Dcarbon.home="$CARBON_HOME" -Dwso2.carbon.tool="jni-provider" org.wso2.carbon.tools.CarbonToolExecutor "$@"
