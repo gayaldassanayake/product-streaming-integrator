@@ -1313,7 +1313,7 @@
         <common.collections4.version>4.4</common.collections4.version>
 
         <!--MSF4J related-->
-        <msf4j.version>2.9.2-SNAPSHOT</msf4j.version>
+        <msf4j.version>2.9.2</msf4j.version>
         <com.fasterxml.jackson.core.version>2.21.7</com.fasterxml.jackson.core.version>
         <com.fasterxml.jackson.databind.version>2.21.7</com.fasterxml.jackson.databind.version>
         <com.fasterxml.jackson.annotations.version>2.21</com.fasterxml.jackson.annotations.version>
