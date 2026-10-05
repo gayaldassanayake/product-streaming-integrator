@@ -127,7 +127,8 @@ org.wso2.transport.http.netty_6.3.54.jar                                        
 io.netty.handler_4.1.138.Final.jar                                                                  bundle         apache2
 org.wso2.carbon.health.check.core_3.0.80.jar                                                        bundle         apache2
 io.netty.transport_4.1.138.Final.jar                                                                bundle         apache2
-org.apache.servicemix.bundles.commons-beanutils_1.8.3.2.jar                                         bundle         apache2
+commons-beanutils_1.11.0.wso2v1.jar                                                                 bundle         apache2
+org.apache.commons.collections_3.2.2.jar                                                            bundle         apache2
 org.apache.commons.logging_1.2.0.jar                                                                bundle         apache2
 org.wso2.carbon.metrics.das.reporter_2.3.24.jar                                                     bundle         apache2
 org.apache.felix.gogo.runtime_0.10.0.v201209301036.jar                                              bundle         apache2
