@@ -193,7 +193,7 @@ siddhi-io-http-2.3.8.jar                                                        
 siddhi-io-cdc-2.2.1.jar                                                                             jar            apache2
 protobuf-java-3.25.5.jar                                                                            bundle         upl1.0
 siddhi-execution-list-1.0.2.jar                                                                     bundle         apache2
-siddhi-io-kafka-5.0.23.jar                                                                          bundle         apache2
+siddhi-io-kafka-5.0.24-SNAPSHOT.jar                                                                 bundle         apache2
 siddhi-io-email-2.0.8.jar                                                                           bundle         apache2
 siddhi-execution-regex-5.0.7.jar                                                                    bundle         apache2
 siddhi-map-keyvalue-2.1.2.jar                                                                       bundle         apache2
