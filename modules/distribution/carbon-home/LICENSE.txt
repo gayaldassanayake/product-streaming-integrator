@@ -85,7 +85,7 @@ org.eclipse.equinox.console_1.3.300.v20190516-1504.jar                          
 disruptor_3.4.2.wso2v1.jar                                                                          bundle         apache2
 io.netty.codec-http2_4.1.138.Final.jar                                                              bundle         apache2
 org.wso2.carbon.analytics.msf4j.interceptor.common_3.0.80.jar                                       bundle         apache2
-libthrift_0.23.0.wso2v1.jar                                                                         bundle         apache2
+libthrift_0.25.0.wso2v1.jar                                                                         bundle         apache2
 org.wso2.carbon.datasource.core_1.1.18.jar                                                          bundle         apache2
 jaxen_1.1.6.jar                                                                                     bundle         apache2
 com.google.guava_32.1.3.jre.jar                                                                     bundle         apache2
