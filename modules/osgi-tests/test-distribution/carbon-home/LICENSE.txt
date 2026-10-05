@@ -62,7 +62,7 @@ org.eclipse.osgi_3.14.0.v20190517-1309.jar                                      
 org.wso2.carbon.caching_1.1.3.jar                                                                   bundle         apache2
 javassist_3.19.0.GA.jar                                                                             bundle         apache2 + lgpl2 + mpl11
 org.wso2.carbon.streaming.integrator.statistics_3.0.80.jar                                          bundle         apache2
-json_3.0.0.wso2v1.jar                                                                               bundle         apache2
+json_3.0.0.wso2v9.jar                                                                               bundle         apache2
 org.eclipse.equinox.util_1.0.500.v20130404-1337.jar                                                 bundle         epl1
 org.wso2.carbon.databridge.core_6.1.74.jar                                                          bundle         apache2
 msf4j-analytics_2.9.2.jar                                                                           bundle         apache2
