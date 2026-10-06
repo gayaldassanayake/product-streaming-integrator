@@ -1351,7 +1351,7 @@
         <siddhi.execution.math.version>5.0.6</siddhi.execution.math.version>
         <siddhi.execution.regex.version>5.0.7</siddhi.execution.regex.version>
         <siddhi.execution.string.version>5.0.13</siddhi.execution.string.version>
-        <siddhi.execution.time.version>5.0.8</siddhi.execution.time.version>
+        <siddhi.execution.time.version>5.0.9-SNAPSHOT</siddhi.execution.time.version>
         <siddhi.execution.json.version>2.0.11</siddhi.execution.json.version>
         <siddhi.execution.map.version>5.0.8-SNAPSHOT</siddhi.execution.map.version>
         <siddhi.execution.list.version>1.0.2</siddhi.execution.list.version>
