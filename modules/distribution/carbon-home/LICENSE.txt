@@ -43,7 +43,7 @@ com.zaxxer.HikariCP_3.3.1.jar                                                   
 net.minidev.accessors-smart_2.5.2.jar                                                               bundle         apache2
 io.netty.transport-native-unix-common_4.1.138.Final.jar                                             bundle         apache2
 net.minidev.json-smart_2.5.2.jar                                                                    bundle         apache2
-org.wso2.carbon.streaming.integrator.core_3.0.80.jar                                                bundle         apache2
+org.wso2.carbon.streaming.integrator.core_3.0.81.SNAPSHOT.jar                                       bundle         apache2
 quartz_2.3.2.wso2v1.jar                                                                             bundle         apache2
 tapestry-json_5.4.1.wso2v1.jar                                                                      bundle         apache2
 reflections_0.9.11.wso2v4.jar                                                                       bundle         bsd
