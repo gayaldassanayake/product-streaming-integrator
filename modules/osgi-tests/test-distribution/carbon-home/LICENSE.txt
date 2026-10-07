@@ -16,8 +16,8 @@ Name                                                                            
 _________________________________________________________________________________________________________________________________________________
 commons-lang3-3.20.0.wso2v1.jar                                                                     bundle         apache2
 commons-lang3_3.20.0.wso2v1.jar                                                                     bundle         apache2
-org.wso2.carbon.tools.core-5.3.5.jar                                                                bundle         apache2
-org.wso2.carbon.launcher-5.3.5.jar                                                                  bundle         apache2
+org.wso2.carbon.tools.core-5.3.6-SNAPSHOT.jar                                                       bundle         apache2
+org.wso2.carbon.launcher-5.3.6-SNAPSHOT.jar                                                         bundle         apache2
 org.osgi.core-6.0.0.jar                                                                             bundle         apache2
 org.wso2.carbon.secvault.ciphertool.5.0.22.jar                                                      bundle         apache2
 org.wso2.carbon.config_2.1.17.jar                                                                   bundle         apache2
@@ -140,7 +140,7 @@ org.wso2.carbon.si.management.icp_3.0.80.jar                                    
 org.objectweb.asm_9.6.0.jar                                                                         bundle         bsd3
 org.apache.geronimo.specs.geronimo-activation_1.1_spec_1.1.0.jar                                    bundle         apache2
 org.wso2.carbon.metrics.das.core_2.3.24.jar                                                         bundle         apache2
-org.wso2.carbon.core_5.3.5.jar                                                                      bundle         apache2
+org.wso2.carbon.core_5.3.6.SNAPSHOT.jar                                                             bundle         apache2
 org.wso2.carbon.si.metrics.core_3.0.80.jar                                                          bundle         apache2
 commons-io_2.17.0.wso2v1.jar                                                                        bundle         apache2
 org.wso2.carbon.jndi_1.0.7.jar                                                                      bundle         apache2
