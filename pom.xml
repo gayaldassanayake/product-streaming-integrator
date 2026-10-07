@@ -1363,7 +1363,7 @@
         <siddhi.io.http.version>2.3.8</siddhi.io.http.version>
         <siddhi.io.websocket.version>3.0.3</siddhi.io.websocket.version>
         <siddhi.io.cdc.version>2.2.2-SNAPSHOT</siddhi.io.cdc.version>
-        <siddhi.io.grpc.version>1.0.15</siddhi.io.grpc.version>
+        <siddhi.io.grpc.version>1.0.16-SNAPSHOT</siddhi.io.grpc.version>
         <protobuf.java.version>3.25.5</protobuf.java.version>
 
         <siddhi.map.json.version>5.2.6</siddhi.map.json.version>
