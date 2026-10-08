@@ -1209,7 +1209,7 @@
     <properties>
         <streaming.integration.version>${project.version}</streaming.integration.version>
         <carbon.analytics.version>3.0.81-SNAPSHOT</carbon.analytics.version>
-        <siddhi.version>5.1.35-SNAPSHOT</siddhi.version>
+        <siddhi.version>5.1.35</siddhi.version>
 
         <carbon.analytics-common.version>6.1.75</carbon.analytics-common.version>
         <!-- Maven plugins -->
@@ -1235,7 +1235,7 @@
 
         <!-- Dependencies -->
         <open.tracing.version>0.31.0</open.tracing.version>
-        <carbon.kernel.version>5.3.6-SNAPSHOT</carbon.kernel.version>
+        <carbon.kernel.version>5.3.6</carbon.kernel.version>
         <carbon.kernel.package.import.version.range>[5.2.0, 6.0.0)</carbon.kernel.package.import.version.range>
         <carbon.kernel.pax.version>5.2.17</carbon.kernel.pax.version>
 

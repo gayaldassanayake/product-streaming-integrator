@@ -16,8 +16,8 @@ Name                                                                            
 _________________________________________________________________________________________________________________________________________________
 commons-lang3-3.20.0.wso2v1.jar                                                                     bundle         apache2
 commons-lang3_3.20.0.wso2v1.jar                                                                     bundle         apache2
-org.wso2.carbon.tools.core-5.3.6-SNAPSHOT.jar                                                       bundle         apache2
-org.wso2.carbon.launcher-5.3.6-SNAPSHOT.jar                                                         bundle         apache2
+org.wso2.carbon.tools.core-5.3.6.jar                                                                bundle         apache2
+org.wso2.carbon.launcher-5.3.6.jar                                                                  bundle         apache2
 org.osgi.core-6.0.0.jar                                                                             bundle         apache2
 org.wso2.carbon.secvault.ciphertool.5.0.22.jar                                                      bundle         apache2
 org.wso2.carbon.config_2.1.17.jar                                                                   bundle         apache2
@@ -25,7 +25,7 @@ org.eclipse.equinox.cm_1.1.200.v20160324-1850.jar                               
 com.fasterxml.jackson.core.jackson-databind_2.21.7.jar                                              bundle         apache2
 org.eclipse.equinox.frameworkadmin.equinox_1.0.700.v20160102-2223.jar                               bundle         epl1
 org.wso2.carbon.siddhi.store.api.rest_3.0.81.jar                                                    bundle         apache2
-siddhi-query-compiler_5.1.35.SNAPSHOT.jar                                                           bundle         apache2
+siddhi-query-compiler_5.1.35.jar                                                                    bundle         apache2
 org.eclipse.equinox.frameworkadmin_2.0.300.v20160504-1450.jar                                       bundle         epl1
 org.ops4j.pax.logging.pax-logging-log4j2_2.2.9.wso2v4.jar                                           bundle         apache2
 org.wso2.carbon.deployment.engine_5.2.3.jar                                                         bundle         apache2
@@ -140,7 +140,7 @@ org.wso2.carbon.si.management.icp_3.0.81.jar                                    
 org.objectweb.asm_9.6.0.jar                                                                         bundle         bsd3
 org.apache.geronimo.specs.geronimo-activation_1.1_spec_1.1.0.jar                                    bundle         apache2
 org.wso2.carbon.metrics.das.core_2.3.26.jar                                                         bundle         apache2
-org.wso2.carbon.core_5.3.6.SNAPSHOT.jar                                                             bundle         apache2
+org.wso2.carbon.core_5.3.6.jar                                                                      bundle         apache2
 org.wso2.carbon.si.metrics.core_3.0.81.jar                                                          bundle         apache2
 commons-io_2.17.0.wso2v1.jar                                                                        bundle         apache2
 org.wso2.carbon.jndi_1.0.7.jar                                                                      bundle         apache2
@@ -148,7 +148,7 @@ org.eclipse.equinox.simpleconfigurator.manipulator_2.0.200.v20160504-1450.jar   
 org.yaml.snakeyaml_2.6.0.jar                                                                        bundle         apache2
 org.wso2.carbon.analytics.idp.client_6.1.75.jar                                                     bundle         apache2
 msf4j-swagger_2.9.3.jar                                                                             bundle         apache2
-siddhi-query-api_5.1.35.SNAPSHOT.jar                                                                bundle         apache2
+siddhi-query-api_5.1.35.jar                                                                         bundle         apache2
 apache-mime4j-core_0.8.11.wso2v1.jar                                                                bundle         apache2
 io.netty.resolver_4.1.138.Final.jar                                                                 bundle         apache2
 jaxb-impl-2.3.0.jar                                                                                 bundle         cddl1 + gpl1
@@ -159,12 +159,12 @@ org.wso2.carbon.siddhi.extensions.installer.core_3.0.81.jar                     
 io.netty.codec-http_4.1.138.Final.jar                                                               bundle         apache2
 javax.servlet-api_3.1.0.jar                                                                         bundle         cddl1
 org.apache.felix.gogo.command_0.10.0.v201209301215.jar                                              bundle         apache2
-siddhi-core_5.1.35.SNAPSHOT.jar                                                                     bundle         apache2
+siddhi-core_5.1.35.jar                                                                              bundle         apache2
 com.google.gson_2.9.1.jar                                                                           bundle         apache2
 gson-2.9.1.jar                                                                                      bundle         apache2
 org.wso2.carbon.messaging_3.0.2.jar                                                                 bundle         apache2
 org.eclipse.equinox.common_3.8.0.v20160509-1230.jar                                                 bundle         epl1
-siddhi-annotations_5.1.35.SNAPSHOT.jar                                                              bundle         apache2
+siddhi-annotations_5.1.35.jar                                                                       bundle         apache2
 org.wso2.orbit.xml-apis.xml-apis_1.4.1.wso2v1.jar                                                   bundle         apache2
 log4j-core-2.25.5.jar                                                                               bundle         apache2
 log4j-api-2.25.5.jar                                                                                bundle         apache2
