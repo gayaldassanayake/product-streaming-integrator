@@ -182,7 +182,7 @@ siddhi-store-rdbms-7.0.19.jar                                                   
 siddhi-io-tcp-3.0.6.jar                                                                             bundle         apache2
 siddhi-execution-time-5.0.9.jar                                                                     bundle         apache2
 siddhi-map-text-2.1.1.jar                                                                           bundle         apache2
-siddhi-execution-map-5.0.9-SNAPSHOT.jar                                                             bundle         apache2
+siddhi-execution-map-5.0.9.jar                                                                      bundle         apache2
 siddhi-io-grpc-1.0.16.jar                                                                           bundle         apache2
 auto-generated-gRPC-classes.jar                                                                     jarinbundle    apache2
 siddhi-io-websocket-3.0.3.jar                                                                       bundle         apache2
